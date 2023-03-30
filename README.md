@@ -14,6 +14,9 @@
     <br>
     🚀 Telegram: <a href="https://t.me/EnAnsari">@EnAnsari</a>
   </div>
+  🆘 اگر با آپلود فایل‌های بزرگ تو گیت مشکل داری 
+  <a href='https://medium.com/junior-dev/how-to-use-git-lfs-large-file-storage-to-push-large-files-to-github-41c8db1e2d65'>این مقاله +</a>
+  رو بخون!
 </details>
 <details>
   <summary><h2>استاندارد نام گذاری</h2></summary>
