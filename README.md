@@ -1,5 +1,10 @@
 <div dir='rtl'>
   <h1>جا امتحانی کامپیوتر حکیم</h1>
+  
+  [![en](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/quiz-hsu/blob/main/README-EN.md)
+  [![dl](https://img.shields.io/badge/download_zip-197MB-yellow.svg)](https://github.com/EnAnsari/quiz-hsu/archive/refs/heads/main.zip)
+  [![lc](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/EnAnsari/quiz-hsu/blob/main/LICENSE)
+  <br>
 📃 جایی برای بارگزاری امتحانات مهندسی کامپیوتر
   <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>دانشگاه حکیم</a>
 <br><br>
